@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author: Moksh Taneja | Course: Open Source Software
+# Author: Nishant Kumar | Course: Open Source Software
 # Purpose: Report permissions and sizes of key Linux directories
 # ============================================================
 
