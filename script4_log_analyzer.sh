@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 4: Log File Analyzer
-# Author:   Moksh Taneja | Course: Open Source Software
+# Author:   Nishant Kumar | Course: Open Source Software
 # Purpose: Count keyword occurrences in a log file and
 #          display the last 5 matching lines.
 # Usage  : ./script4_log_analyzer.sh <logfile> [keyword]
