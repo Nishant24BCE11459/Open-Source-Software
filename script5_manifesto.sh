@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Moksh Taneja | Course: Open Source Software
+# Author: Nishant Kumar | Course: Open Source Software
 # Purpose: Generate a personalised open-source philosophy
 #          statement based on user input and save it to a file.
 #
